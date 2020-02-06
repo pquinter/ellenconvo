@@ -1,3 +1,6 @@
-./data/*txt
+data/*txt
+data/*pdf
+output/
 .DS_Store
-./src/sandbox
+src/sandbox
+misc/
