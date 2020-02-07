@@ -42,7 +42,7 @@ def convo2df(path):
             if 'Porfirio Cadena' in l:
                 author='Porfi'
                 continue
-            elif '(626) 399-4824' in l:
+            elif phone_number in l:
                 author='Ellen'
                 continue
             # if not datetime or author, it's a text
