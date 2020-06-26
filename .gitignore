@@ -4,4 +4,4 @@ output/
 .DS_Store
 src/sandbox
 misc/
-src/.ipynb_checkpoints
+nb/.ipynb_checkpoints
